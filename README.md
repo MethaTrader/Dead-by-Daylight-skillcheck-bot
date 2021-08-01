@@ -1,9 +1,9 @@
 # Dead by Daylight Skillcheck detection bot
 
-## Hello everyone, this is one of my first bots written in python using the OpenCV computer vision library
+### Hello everyone, this is one of my first bots written in python using the OpenCV computer vision library
 
 
-## The code is pretty straightforward. This bot allows you to solve reaction checks in the **Dead by daylight** game.  
+### The code is pretty straightforward. This bot allows you to solve reaction checks in the **Dead by daylight** game.  
 
 ***
 # How the bot works?
