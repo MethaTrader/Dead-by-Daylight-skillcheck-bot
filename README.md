@@ -1,5 +1,5 @@
 # Dead by Daylight Skillcheck detection bot
-
+![Image of deadbydaylight_skillcheckbot_preview](https://beeimg.com/images/d99918545463.jpg)
 ### Hello everyone, this is one of my first bots written in python using the OpenCV computer vision library
 
 
